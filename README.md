@@ -1,2 +1,2 @@
 # blog-code-samples
-Code samples used in devpower.co.uk blog
+Code samples used in [DevPower](https://devpower.co.uk) blog
